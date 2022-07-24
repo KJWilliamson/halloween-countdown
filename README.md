@@ -1,5 +1,6 @@
 # halloween-countdown
 
+*need to make mobile friendly*
 
 https://countdown-to-halloween.netlify.app/
 
