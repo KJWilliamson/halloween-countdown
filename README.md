@@ -4,4 +4,6 @@
 
 https://countdown-to-halloween.netlify.app/
 
-![countdown1](https://user-images.githubusercontent.com/24884380/180378398-e324e345-fd13-4874-8745-72901f971de1.jpg)
+
+
+![Screen Shot 2022-09-29 at 3 58 12 PM](https://user-images.githubusercontent.com/24884380/193156742-17c2095c-a7ae-40cd-964b-c3c4bc2566b8.png)
