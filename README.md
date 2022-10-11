@@ -1,6 +1,6 @@
-# halloween-countdown
+# Halloween Countdown webapp built with HTML, CSS, and Javascript
 
-*need to make mobile friendly*
+* need to make mobile friendly*
 
 https://countdown-to-halloween.netlify.app/
 
