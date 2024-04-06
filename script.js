@@ -3,7 +3,7 @@ const hoursAll = document.getElementById("hours");
 const minutesAll = document.getElementById("minutes");
 const secondsAll = document.getElementById("seconds");
 
-const halloween = "31 October 2023";
+const halloween = "31 October 2024";
 
 function countdown() {
   const halloweenDate = new Date(halloween);
